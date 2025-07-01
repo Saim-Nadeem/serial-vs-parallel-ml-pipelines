@@ -120,7 +120,6 @@ All model variants achieved over 60% accuracy.
 ### Environments
 - Local Jupyter Notebook  
 - Kaggle Notebooks  
-- Coiled Cloud (for distributed execution)
 
 ---
 
